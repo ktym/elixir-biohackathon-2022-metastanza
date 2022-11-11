@@ -36,6 +36,10 @@ authors_short: First Author \emph{et al.}
 
 As part of the BioHackathon Europe 2022, we here report...
 
+# Visualization
+
+![MetaStanza](./LayeredGraph.png)
+
 # Formatting
 
 This document use Markdown and you can look at [this tutorial](https://www.markdowntutorial.com/).
