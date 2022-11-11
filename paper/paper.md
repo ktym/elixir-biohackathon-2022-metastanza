@@ -1,22 +1,23 @@
 ---
-title: 'BioHackEU22 Template'
-title_short: 'BioHackEU22 #26: unknown chemical substances'
+title: 'Visualizing FAIR data with MetaStanza'
+title_short: 'BioHackEU22 #07: MetaStanza'
 tags:
-  - cheminformatics
-  - PubChem
-  - unknown chemical substances
+  - Bioinformatics
+  - TogoID
+  - API
 authors:
-  - name: First Author
+  - name: Toshiaki Katayama
+    orcid: 0000-0003-2391-0384
     affiliation: 1
   - name: Last Author
     orcid: 0000-0000-0000-0000
     affiliation: 2
 affiliations:
-  - name: First Affiliation
+  - name: Database Center for Life Science
     index: 1
   - name: Second Affiliation
     index: 2
-date: 8 November 2022
+date: 10 November 2022
 cito-bibliography: paper.bib
 event: BH22EU
 biohackathon_name: "BioHackathon Europe 2022"
